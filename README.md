@@ -3,6 +3,7 @@ NASA Image & Video Library API Application
 This project is a lightweight search engine that gets image and audio files from the NASA Image & Video Library API.
 
 Getting Started
+
 The web app is built in native PHP 7.0, HTML 5.0 and CSS 3.0. TO setup, download all files into a local or web-hosted folder. Go to Index.php first. Tested and working on Chome, Firefox and Edge.
 
 Instructions
