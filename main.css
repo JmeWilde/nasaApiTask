@@ -1,0 +1,68 @@
+h1 {
+  text-align: center;
+  font-family: Segoe UI, Frutiger;
+}
+
+body {
+  font-family: Segoe UI, Frutiger;
+}
+
+form {
+  display: inline;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding: 15px;
+}
+
+input[type=text] {
+  padding: 5px;
+  border: 2px solid #ccc;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  font-family: Segoe UI, Frutiger;
+}
+
+input[type=text]:focus {
+  border-color: #333;
+  font-family: Segoe UI, Frutiger;
+  color: black;
+}
+
+input[type=submit] {
+  padding: 5px 15px;
+  background: #ccc;
+  border: 0 none;
+  cursor: pointer;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  font-family: Segoe UI, Frutiger;
+}
+
+input[type=submit]:hover {
+  background-color: #42bcf4;
+}
+
+.wrapper {
+  width: 75%;
+  height: auto;
+  margin: auto;
+  padding: 10px;
+}
+
+#searchBox {
+  padding: 20px;
+  text-align: center;
+  width: 88%;
+  margin: auto;
+  font-family: Segoe UI, Frutiger;
+}
+
+#imgBox {
+  padding: 15px;
+  margin: auto;
+  display: inline-block;
+}
